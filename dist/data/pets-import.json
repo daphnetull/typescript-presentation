@@ -1,0 +1,50 @@
+[
+    {
+        "name": "Farley",
+        "age": 8,
+        "type": "dog",
+        "breed": "rottweiler-beagle",
+        "rescue": true,
+        "food": {
+            "brand": "pedigree",
+            "pounds": 22,
+            "alternatives": ["purina", "iams", "hill's"]
+        }
+    },
+    {
+        "name": "Roxie",
+        "age": 3,
+        "type": "dog",
+        "breed": "pitbill",
+        "rescue": false,
+        "food": {
+            "brand": "pedigree",
+            "pounds": 22,
+            "alternatives": ["purina", "iams", "hill's"]
+        }
+    },
+    {
+        "name": "Cid",
+        "age": 11,
+        "type": "dog",
+        "breed": "pitbill-labrador",
+        "rescue": true,
+        "food": {
+            "brand": "pedigree",
+            "pounds": 22,
+            "alternatives": ["purina", "iams", "hill's"]
+        }
+    },
+    {
+        "name": "Pouncey",
+        "age": 5,
+        "type": "cat",
+        "breed": "orange tabby",
+        "rescue": true,
+        "food": {
+            "brand": "purina",
+            "pounds": 12,
+            "alternatives": ["iams", "meow mix", "hill's"]
+        }
+    }
+]
